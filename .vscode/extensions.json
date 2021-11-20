@@ -14,7 +14,7 @@
     "ms-vscode.azurecli",
     "ms-azuretools.vscode-azurevirtualmachines",
     "azps-tools.azps-tools",
-    "github.vscode-pull-request-github",  
+    "github.vscode-pull-request-github",
     "ms-vscode-remote.remote-ssh-edit",
     "ms-vscode-remote.vscode-remote-extensionpack",
     "redhat.vscode-yaml",
