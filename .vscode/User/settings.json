@@ -66,4 +66,7 @@
         "markdown": true
     },
     "github.copilot.inlineSuggest.enabled": true,
+    "remote.SSH.remotePlatform": {
+        "10.1.0.4": "linux"
+    },
 }
